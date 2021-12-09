@@ -139,15 +139,15 @@ body{
     text-transform: capitalize;
 }
 
-section{
+/* section{
     background-color: white;
     padding: 4rem 0rem 4rem;
-}
+} */
 
-section:nth-of-type(even){
+/* section:nth-of-type(even){
     background-color: #fe4066;
     color: white;
-}
+} */
 
 .btn-xl {
     padding: 10px 20px;
